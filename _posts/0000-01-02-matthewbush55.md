@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our My Learning slide!"
 ---
-I MADE A CHANGE!!!
+THIS IS THE SECOND CHANGE!!!
 Use the left arrow to go back!
